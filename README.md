@@ -25,3 +25,8 @@ Welcome to FoodieDelight, your ultimate food delivery app! Built with React, Foo
 * MongoDB
 
 ## App preview
+![image](https://github.com/amitprasad1403/foodieDelight/blob/main/fd1.png)
+![image](https://github.com/amitprasad1403/foodieDelight/blob/main/fd2.png)
+![image](https://github.com/amitprasad1403/foodieDelight/blob/main/fd3.png)
+![image](https://github.com/amitprasad1403/foodieDelight/blob/main/fd4.png)
+![image](https://github.com/amitprasad1403/foodieDelight/blob/main/fd5.png)
